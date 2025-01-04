@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ifxscurcu.h": "c",
+        "sh1106_driver.h": "c",
+        "font5x7.h": "c",
+        "stdio.h": "c",
+        "fonts.h": "c",
+        "ifxsrc.h": "c",
+        "ifxstm.h": "c",
+        "stm_system_time.h": "c",
+        "time.h": "c"
+    }
+}

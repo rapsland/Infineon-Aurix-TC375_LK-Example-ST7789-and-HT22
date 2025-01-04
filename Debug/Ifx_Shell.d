@@ -1,0 +1,40 @@
+Ifx_Shell.o :	../Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Shell.c
+../Libraries/Service/CpuGeneric/SysSe/Comm/Ifx_Shell.c :
+Ifx_Shell.o :	..\Libraries\Service\CpuGeneric\SysSe\Comm\Ifx_Shell.h
+..\Libraries\Service\CpuGeneric\SysSe\Comm\Ifx_Shell.h :
+Ifx_Shell.o :	"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\Service\CpuGeneric\StdIf\IfxStdIf_DPipe.h"
+"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\Service\CpuGeneric\StdIf\IfxStdIf_DPipe.h" :
+Ifx_Shell.o :	"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\Service\CpuGeneric\StdIf\IfxStdIf.h"
+"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\Service\CpuGeneric\StdIf\IfxStdIf.h" :
+Ifx_Shell.o :	"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\iLLD\TC37A\Tricore\Cpu\Std\Ifx_Types.h"
+"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\iLLD\TC37A\Tricore\Cpu\Std\Ifx_Types.h" :
+Ifx_Shell.o :	"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\Infra\Platform\Tricore\Compilers\Compilers.h"
+"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\Infra\Platform\Tricore\Compilers\Compilers.h" :
+Ifx_Shell.o :	"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Configurations\Ifx_Cfg.h"
+"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Configurations\Ifx_Cfg.h" :
+Ifx_Shell.o :	"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\Infra\Platform\Tricore\Compilers\CompilerTasking.h"
+"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\Infra\Platform\Tricore\Compilers\CompilerTasking.h" :
+Ifx_Shell.o :	"C:\Infineon\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h"
+"C:\Infineon\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stddef.h" :
+Ifx_Shell.o :	"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\iLLD\TC37A\Tricore\Cpu\Std\Platform_Types.h"
+"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\iLLD\TC37A\Tricore\Cpu\Std\Platform_Types.h" :
+Ifx_Shell.o :	"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\iLLD\TC37A\Tricore\Cpu\Std\Ifx_TypesTasking.h"
+"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\iLLD\TC37A\Tricore\Cpu\Std\Ifx_TypesTasking.h" :
+Ifx_Shell.o :	"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\Service\CpuGeneric\_Utilities\Ifx_Assert.h"
+"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\Service\CpuGeneric\_Utilities\Ifx_Assert.h" :
+Ifx_Shell.o :	"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\iLLD\TC37A\Tricore\Cpu\Std\IfxCpu_Intrinsics.h"
+"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\iLLD\TC37A\Tricore\Cpu\Std\IfxCpu_Intrinsics.h" :
+Ifx_Shell.o :	"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\iLLD\TC37A\Tricore\Cpu\Std\Ifx_Types.h"
+"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\iLLD\TC37A\Tricore\Cpu\Std\Ifx_Types.h" :
+Ifx_Shell.o :	"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\iLLD\TC37A\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h"
+"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\iLLD\TC37A\Tricore\Cpu\Std\IfxCpu_IntrinsicsTasking.h" :
+Ifx_Shell.o :	"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\iLLD\TC37A\Tricore\Cpu\Std\Ifx_Types.h"
+"C:\Users\rapsland\AURIX-v1.10.2-workspace\SPI_CPU_1_KIT_TC375_LK\Libraries\iLLD\TC37A\Tricore\Cpu\Std\Ifx_Types.h" :
+Ifx_Shell.o :	"C:\Infineon\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\string.h"
+"C:\Infineon\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\string.h" :
+Ifx_Shell.o :	"C:\Infineon\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stdlib.h"
+"C:\Infineon\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stdlib.h" :
+Ifx_Shell.o :	"C:\Infineon\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stdio.h"
+"C:\Infineon\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stdio.h" :
+Ifx_Shell.o :	"C:\Infineon\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stdarg.h"
+"C:\Infineon\AURIX-Studio-1.10.2\tools\Compilers\Tasking_1.1r8\ctc\include\stdarg.h" :
