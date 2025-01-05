@@ -1,0 +1,9 @@
+This example has been created using the "https://github.com/Infineon/AURIX_code_examples/blob/master/code_examples/SPI_CPU_1_KIT_TC375_LK/.project" SPI example.
+This example shows a simple implementation of ST7789 2.8" display with DHT sensor informations.
+I have experimented on flashing the min max values in to PFLASH. But it has some bugs regarding format. I won't be able fix it due to other activities (christmas vacation is over).
+I hope it helps them who plans to use TC3xx in his projects.
+
+[Infineon-SPI_CPU_1_KIT_TC375_LK-Training-v01_01-EN.pdf](https://github.com/user-attachments/files/18309844/Infineon-SPI_CPU_1_KIT_TC375_LK-Training-v01_01-EN.pdf)
+
+[Infineon-AURIX_TC375_lite_Kit-UserManual-v02_20-EN.pdf](https://github.com/user-attachments/files/18309845/Infineon-AURIX_TC375_lite_Kit-UserManual-v02_20-EN.pdf)
+
