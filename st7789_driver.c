@@ -286,7 +286,11 @@ void ST7789_Init(void) {
     ST7789_SetRotation(rotation);
 
     // Enable inversion
+    #ifdef ST7789_2_8_INCH
     ST7789_WriteCommand(ST7789_INVOFF);
+    #else
+    ST7789_WriteCommand(ST7789_INVON);
+    #endif
 
     // Turn on display
     ST7789_WriteCommand(ST7789_NORON);

@@ -36,8 +36,18 @@
 #include <stdint.h>
 
 // Display dimensions
+//#define ST7789_2_8_INCH  // Für 2.8" Display (240x320)
+// or
+#define ST7789_1_9_INCH  // Für 1.9" Display (135x240)
+
+// Display dimensions
+#ifdef ST7789_2_8_INCH
 #define ST7789_WIDTH    240
 #define ST7789_HEIGHT   320
+#elif defined(ST7789_1_9_INCH)
+#define ST7789_WIDTH    170
+#define ST7789_HEIGHT   320
+#endif
 
 // Color definitions
 #define ST7789_BLACK    0x0000
